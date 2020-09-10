@@ -1,3 +1,7 @@
+##CacheSolve is a function that computes the inverse of the special matrix
+##that was created by makeCacheMatrix
+##makeCacheMatrix creates a special matrix
+##THIS IS A COMMENT
 makeCacheMatrix <-function (x= matrix()) {
     inv <- NULL
     set <- function (y){
